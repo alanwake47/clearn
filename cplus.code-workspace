@@ -2,6 +2,14 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "Coursera_c2cpp",
+			"path": "../Coursera_c2cpp"
+		},
+		{
+			"name": "Coursera-Cplusplus-for-C-Programmers",
+			"path": "../Coursera-Cplusplus-for-C-Programmers"
 		}
 	],
 	"settings": {
