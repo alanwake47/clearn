@@ -9,4 +9,4 @@ Repository to learn C and C++ coding
 - Module 4 - Pending
 
 2. [**Programming in Modern C++**](https://onlinecourses.nptel.ac.in/noc22_cs43/preview) - *Indian Institute of Technology (IIT) Kharagpur*: **Prof. Partha Pratim Das**-
-    This course is delivered via the [SWAYAM](https://swayam.gov.in/) - NPTEL platform and consists of weekly autograded (test cases) programming assignments, and quizes. This is a 12 week program, with and additional "week-0" which recaps C-Progamming concepts necessary to start learning C++.
+    This course is delivered via the [SWAYAM](https://swayam.gov.in/) - NPTEL platform and consists of weekly autograded (test cases) programming assignments, and quizes. This is a 12 week program, with an additional "week-0" which recaps C-Progamming concepts necessary to start learning C++.
