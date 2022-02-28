@@ -4,7 +4,7 @@ Repository to learn C and C++ coding
 1. [**Coding for Everyone: C and C++ Specialization**](https://www.coursera.org/specializations/coding-for-everyone)- *University of California Santa Cruz* : **Prof. Ira Pohl**-
     This course is delivered via [Coursera](https://www.coursera.org/) and consists of 4 modules of varying durations with peer graded programming assignments, quizes, and advanced learning homeworks.
 - Module 1 - C for Everyone: Programming Fundamentals
-- Module 2 - Pending
+- Module 2 - C for Everyone: Structured Programming
 - Module 3 - Pending
 - Module 4 - Pending
 
